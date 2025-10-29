@@ -1,4 +1,3 @@
-echo "# 30 JavaScript Projects 🚀
 
 This repository includes 30 mini JavaScript projects built with HTML, CSS, and JavaScript.  
 Each project lives in a separate branch.
